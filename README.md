@@ -1,2 +1,1 @@
-# AnimeFlix
-Anime List Project
+Anime list Project

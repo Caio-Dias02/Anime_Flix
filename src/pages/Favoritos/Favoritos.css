@@ -1,0 +1,38 @@
+.meus-animes{
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.meus-animes h1{
+    margin-bottom: 14px;
+}
+
+.meus-animes span{
+    font-size: 18px;
+}
+
+.meus-animes ul{
+    width: 720px;
+}
+
+.meus-animes ul li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+}
+
+.meus-animes div{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.meus-animes div a {
+    text-decoration: none;
+    color: #116feb;
+    margin-right: 14px;
+}
